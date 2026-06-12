@@ -1,5 +1,5 @@
 # ResearchPilot 🔬
-### Powered by GitHub Models 
+### Powered by GitHub Models
 
 > **Agents League Hackathon — Reasoning Agents track**
 > Autonomous research agent: decomposes questions → retrieves evidence → self-critiques → synthesises a structured report.
@@ -105,3 +105,6 @@ researchpilot/
 - [GitHub Models](https://github.com/marketplace/models) — free GPT-4o access
 - [OpenAI Python SDK](https://github.com/openai/openai-python)
 - Multi-agent reasoning loop with self-critique
+
+
+Currently working on this...
