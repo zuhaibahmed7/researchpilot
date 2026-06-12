@@ -1,5 +1,5 @@
 # ResearchPilot 🔬
-### Powered by GitHub Models — 100% Free, No Credit Card
+### Powered by GitHub Models 
 
 > **Agents League Hackathon — Reasoning Agents track**
 > Autonomous research agent: decomposes questions → retrieves evidence → self-critiques → synthesises a structured report.
