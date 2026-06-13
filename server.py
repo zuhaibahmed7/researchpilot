@@ -216,4 +216,4 @@ if __name__ == "__main__":
     import uvicorn
     print("\n🔬 ResearchPilot server starting...")
     print("   Open http://localhost:8000 in your browser\n")
-    uvicorn.run("server:app", host="0.0.0.0", port=8000, reload=True)
+    uvicorn.run("server:app", host="0.0.0.0", port=7860, reload=True)
