@@ -101,6 +101,8 @@ researchpilot/
 
 ---
 
+Open http://localhost:7860
+
 ## Built with
 - [GitHub Models](https://github.com/marketplace/models) — free GPT-4o access
 - [OpenAI Python SDK](https://github.com/openai/openai-python)
