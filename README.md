@@ -106,5 +106,3 @@ researchpilot/
 - [OpenAI Python SDK](https://github.com/openai/openai-python)
 - Multi-agent reasoning loop with self-critique
 
-
-Currently working on this...
