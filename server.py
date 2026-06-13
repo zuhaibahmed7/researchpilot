@@ -214,6 +214,7 @@ async def root():
 
 if __name__ == "__main__":
     import uvicorn
-    print("\n🔬 ResearchPilot server starting...")
-    print("   Open http://localhost:8000 in your browser\n")
-    uvicorn.run("server:app", host="0.0.0.0", port=7860, reload=True)
+    port = int(os.environ.get("PORT", 7860))
+    print(f"\n🔬 ResearchPilot server starting...")
+    print(f"   Open http://localhost:{port} in your browser\n")
+    uvicorn.run("server:app", host="0.0.0.0", port=port, reload=False)
