@@ -102,6 +102,9 @@ researchpilot/
 ---
 
 Open http://localhost:7860
+Try it Live: https://zuhaibahmed7-researchpilot.hf.space
+YouTube : https://youtu.be/dur_RkgL598
+
 
 ## Built with
 - [GitHub Models](https://github.com/marketplace/models) — free GPT-4o access
